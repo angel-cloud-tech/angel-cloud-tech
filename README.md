@@ -5,7 +5,7 @@
 - <b>Microsoft</b>
   - [Monitoring Network Traffic with Azure VMs](https://github.com/joshmadakor1/Algorithms-Practice)
 - 
-  - [Setup and Use a VPN in Azure](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Setup and Use a VPN in Azure](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>Active Directory</b>
   - [Active Directory: Preparing Infrastruture in Azure](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Active Directory: Deploying Active Directory in Azure](https://github.com/joshmadakor1/Jwipe.PowerShell)
