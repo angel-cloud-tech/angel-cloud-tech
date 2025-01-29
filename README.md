@@ -3,18 +3,18 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft</b>
-  - [Monitoring Network Traffic with Azure VMs](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Monitoring Network Traffic with Azure VMs](https://github.com/angel-cloud-tech/Monitoring-Network-Traffic-with-Azure-VMs)
 - 
-  - [Setup and Use a VPN in Azure](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Setup and Use a VPN in Azure](https://github.com/angel-cloud-tech/Setup-and-Use-a-VPN-in-Azure) <b><i></b></i>
 - <b>Active Directory</b>
-  - [Active Directory: Preparing Infrastruture in Azure](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Active Directory: Deploying Active Directory in Azure](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory: Preparing Infrastruture in Azure](https://github.com/angel-cloud-tech/Active-Directory-Preparing-Infrastructure-in-Azure)
+  - [Active Directory: Deploying Active Directory in Azure](https://github.com/angel-cloud-tech/Active-Directory-Deploying-Active-Directory-in-Azure)
+  - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/angel-cloud-tech/Active-Directory-Creating-Users-Group-Policy-Managing-Accounts-in-Azure)
   
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakor1/EncrypterPOC)
-  - [osTicket: Post Installation Configuration](https://github.com/joshmadakor1/DecrypterPOC)
-  - [osTicket: Creating and Working Tickets](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [osTicket: Prerequisites and Installation](https://github.com/angel-cloud-tech/osTicket-Prerequisites-and-Installation)
+  - [osTicket: Post Installation Configuration](https://github.com/angel-cloud-tech/osTicket-Post-Installation-Configuration)
+  - [osTicket: Creating and Working Tickets](https://github.com/angel-cloud-tech/osTicket-Creating-and-Working-Tickets)
   
 
 
