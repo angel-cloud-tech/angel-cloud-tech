@@ -1,6 +1,6 @@
  <h1>Hi, I'm Angel! An Aspiring IT Professional 🧑‍💻
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> Information Technology Projects:</h2>
 
 - <b>Microsoft</b>
   - [Monitoring Network Traffic with Azure VMs](https://github.com/angel-cloud-tech/Monitoring-Network-Traffic-with-Azure-VMs)
